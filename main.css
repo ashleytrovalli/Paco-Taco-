@@ -1,0 +1,40 @@
+body {
+	background:#777;
+    font-family: arial;
+    padding: 5px
+    margin: 0;
+}
+header{
+	background-color: blue;
+}
+header h1 {
+  color: #121; 
+  padding: 10px 5px;
+  display: inline;
+ }
+ p {
+ 	font-size:24px;
+ 	padding: 10px;
+ }
+.nar {
+	color: #226;
+}
+nav ul {
+	margin: 0;
+	padding: 0;
+	display: inline;
+}
+nav ul li {
+	list-style-type: none;
+	display: inline-block;
+	padding: 15px 15px 0 15px;
+	margin: 5px;
+	background-color:#888;
+}
+p.dar {
+	font-size: 60px;
+	padding: 0 10px 10px 10px;
+	text-align: center;
+}
+#mainbody {
+	background-color:blue;}
